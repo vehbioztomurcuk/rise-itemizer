@@ -1,0 +1,55 @@
+Name,Type
+Item ID,Column Name
+Name,Column Name
+Item Icon,Column Name
+Keywords,Column Name
+Race,Column Name
+Kind,Column Name
+Class,Column Name
+Sub Class,Column Name
+Item Type,Column Name
+Is Radiant,Column Name
+Item Quality,Column Name
+Grade,Column Name
+Description,Column Name
+Material Detail,Column Name
+Max Rune,Column Name
+Attack Power,Column Name
+Physical Defense Bonus,Column Name
+Dagger Defense,Column Name
+Sword Defense,Column Name
+Mace Defense,Column Name
+Axe Defense,Column Name
+Spear Defense,Column Name
+Bow Defense,Column Name
+Mirror Damage,Column Name
+Poison Damage,Column Name
+Fire Damage,Column Name
+Ice Damage,Column Name
+Lightning Damage,Column Name
+Holy Damage,Column Name
+HP Leech,Column Name
+Mana Burn,Column Name
+Strength Bonus,Column Name
+Health Bonus,Column Name
+Dexterity Bonus,Column Name
+Intelligence Bonus,Column Name
+Magic Bonus,Column Name
+HP Bonus,Column Name
+MP Bonus,Column Name
+Fire Resistance,Column Name
+Ice Resistance,Column Name
+Lightning Resistance,Column Name
+Holy Damage Resistance,Column Name
+Poison Damage Resistance,Column Name
+Curse Damage Resistance,Column Name
+Required Magic,Column Name
+Required Intelligence,Column Name
+Required HP,Column Name
+Required Strength,Column Name
+Required Dexterity,Column Name
+Required Level,Column Name
+Durability,Column Name
+Weight,Column Name
+Collection,Column Name
+Status,Column Name

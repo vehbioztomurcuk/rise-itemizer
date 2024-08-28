@@ -1,0 +1,361 @@
+Name,Type
+Dagger,Basic Knife
+Dagger,Sting
+Dagger,Training Knife
+Dagger,Curved Knife
+Dagger,Carving Knife
+Dagger,Practice Knife
+Dagger,Stiletto
+Dagger,Soulcarver
+Dagger,Spike
+Dagger,Chopper
+Dagger,Butcher’s Cleaver
+Dagger,Nimble
+Dagger,Kryss
+Dagger,Facelifter
+Dagger,Sunshard
+Dagger,Greed
+Dagger,Golden Snake
+Dagger,Hatred’s Blade
+Dagger,Exalted Hatred’s Blade
+Dagger,Superior Hatred’s Blade
+Dagger,"Superior Exalted Hatred’s
+                                                            Blade"
+Dagger,Deathwish
+Dagger,Jade Dagger
+Dagger,Dagger of Balance
+Dagger,Dark Mamba
+Dagger,Holy Dagger
+Dagger,Serpent Dagger
+Short Bow,Training Bow
+Short Bow,Shortbow
+Short Bow,Hunting Bow
+Short Bow,Reflex Bow
+Short Bow,Golden Bow
+Short Bow,Swift Shooter
+Short Bow,Heartseeker
+Short Bow,Vixen
+Short Bow,Exalted Vixen
+Short Bow,Superior Vixen
+Short Bow,Superior Exalted Vixen
+Short Bow,Viper
+Short Bow,Enhanced Viper
+Short Bow,Warbow
+Short Bow,Elven Bow
+Short Bow,Mystic Bow
+Short Bow,Holy Bow
+Short Bow,Crimson Bow
+Crossbow,Crossbow
+Crossbow,Steel Crossbow
+Crossbow,Skullhorn
+Crossbow,Bluewing
+Sword,Training Sword
+Sword,Knight Sword
+Sword,Icebrand
+Sword,Beast Sword
+Sword,Practice Sword
+Sword,Frostblade
+Sword,Berserker Blade
+Sword,Falchion
+Sword,Gladius
+Sword,Last Letter
+Sword,Swiftblade
+Sword,Exalted Swiftblade
+Sword,Superior Swiftblade
+Sword,"Superior Exalted
+                                                            Swiftblade"
+Sword,Scimitar
+Sword,Angelic Sword
+Sword,Jade Sword
+Greatsword,Broken Sword
+Greatsword,Runic Sword
+Greatsword,Outlander
+Greatsword,Rotten Sword
+Greatsword,Silver Rapier
+Greatsword,Hardedge
+Greatsword,Flamberge
+Greatsword,Netherblade
+Greatsword,Excalibur
+Greatsword,Sinister
+Greatsword,Cursed Blade
+Greatsword,Tabarise
+Greatsword,Arch Sword
+Greatsword,Jeremias’ Claymore
+Greatsword,"Exalted Jeremias’
+                                                            Claymore"
+Greatsword,"Superior Jeremias’
+                                                            Claymore"
+Greatsword,"Superior Exalted Jeremias’
+                                                            Claymore"
+Greatsword,Cannibal Blade
+Greatsword,Gunnar’s Sabre
+Greatsword,Holy Sword
+Greatsword,Imperator
+Greatsword,Chaos Blade
+Axe,Hatchet
+Axe,Woodcutter’s Axe
+Axe,Stonebreaker
+Axe,Training Axe
+Axe,Zombie Axe
+Axe,War Axe
+Axe,Barbarian’s Axe
+Axe,Destroyer
+Axe,Ferocious Axe
+Axe,Double Edged
+Axe,Headsplitter
+Axe,Eternal Axe
+Axe,Doombringer
+Axe,Exalted Doombringer
+Axe,Superior Doombringer
+Axe,"Superior Exalted
+                                                            Doombringer"
+Axe,Avenger
+Axe,Dragon Slayer
+Greataxe,Fine Axe
+Greataxe,Savage Axe
+Greataxe,Steel Axe
+Greataxe,Bone Crusher
+Greataxe,Spinning Axe
+Greataxe,Pole Axe
+Greataxe,Hand Axe of Minotaur
+Greataxe,Axe of Destruction
+Greataxe,Overseer
+Greataxe,Tormentor
+Mace,Hardwood Hammer
+Mace,Cyclops Mace
+Mace,Short Kanabo
+Mace,Iron Spike
+Mace,Frozen Circle
+Mace,Frozen Heart
+Mace,Seismic Hammer
+Mace,Holy Mace
+Mace,Iron Hammer
+Mace,Whirling Mace
+Mace,Frozen Mace
+Mace,Exalted Frozen Mace
+Mace,Superior Frozen Mace
+Mace,"Superior Exalted Frozen
+                                                            Mace"
+Mace,Annihilator
+Mace,Hell’s Scream
+Mace,Sermon’s Scepter
+Mace,King’s Ornate Hammer
+Mace,Matta’s Warhammer
+Mace,Heirloom of Kaleb
+Mace,Maelstrom
+Greatmace,Oak Hammer
+Greatmace,Great Club
+Greatmace,Earthshaker
+Greatmace,Exalted Earthshaker
+Greatmace,Superior Earthshaker
+Greatmace,"Superior Exalted
+                                                            Earthshaker"
+Greatmace,Stormbringer
+Greatmace,Ancient Sledgehammer
+Spear,Boar Spear
+Spear,Iron Sting
+Spear,Golden Spetum
+Spear,Light Glaive
+Spear,Brutal Impaler
+Spear,Harpoon
+Spear,Exalted Harpoon
+Spear,Superior Harpoon
+Spear,Superior Exalted Harpoon
+Spear,Holy Spear
+Spear,Mithril Spear
+Spear,Sea King’s Trident
+Spear,Vanquisher
+Polearm,Long Handled Sickle
+Polearm,Moon Cleaver
+Polearm,War Scythe
+Polearm,Exalted War Scythe
+Polearm,Superior War Scythe
+Polearm,"Superior Exalted War
+                                                            Scythe"
+Polearm,Holy Polearm
+Polearm,Hellreaver
+Polearm,Exalted Hellreaver
+Polearm,Superior Hellreaver
+Polearm,"Superior Exalted
+                                                            Hellreaver"
+Polearm,Soul Harvester
+Polearm,Reaper
+Staff,Wooden Rod
+Staff,Branch
+Staff,Scepter
+Staff,Spiritcaller
+Staff,Grand Staff
+Staff,Blaze
+Staff,Moonlight
+Staff,Starlight
+Staff,Skull Cane
+Staff,Necromancer’s Staff
+Staff,Scholar’s Wand
+Staff,Druid Staff
+Staff,Windcaller
+Staff,Spiked Cane
+Staff,Sage’s Rod
+Staff,Mystic Cane
+Staff,Requiem
+Staff,Hysterial Staff
+Staff,Exalted Hysterial Staff
+Staff,Superior Hysterial Staff
+Staff,"Superior Exalted Hysterial
+                                                            Staff"
+Staff,Holy Staff
+Staff,Archmage’s Frost Staff
+Staff,Archmage’s Thunder Staff
+Staff,Archmage’s Fire Staff
+Staff,Luna’s Fire / Glaze / Flash Rod
+Staff,Razu’s Staff
+Shield,Small Shield
+Shield,Wooden Shield
+Shield,Battle Mage’s Shield
+Shield,Ranger’s Shield
+Shield,Training Shield
+Shield,Rogue Shield
+Shield,Warlock’s Shield
+Shield,Kite Shield
+Shield,Holy Shield
+Shield,Shield of the Town Watch
+Shield,Roar of the Lion
+Shield,Guardian’s Shield
+Shield,Battle Shield
+Shield,Defender
+Shield,Shield of Prophecy
+Shield,Karnak Shield
+Shield,Judgment Shield
+Shield,Celestial Shield
+Shield,Shield of Hope
+Shield,Shield of Precision
+Shield,Equalizer
+Necklace,Common
+Necklace,Bronze Necklace
+Necklace,Gold Necklace
+Necklace,Silver Necklace
+Necklace,Rare
+Necklace,Magus Necklace
+Necklace,Steel Necklace
+Necklace,Swiftness Pendant
+Necklace,Traveller’s Pendant
+Necklace,Vitality Necklace
+Necklace,Epic
+Necklace,Assassin Pendant
+Necklace,Black Moon Pendant
+Necklace,Black Soul Pendant
+Necklace,Brawler’s Pendant
+Necklace,Cleric’s Pendant
+Necklace,Holy Priest Pendant
+Necklace,Knight’s Pendant
+Necklace,Lifebloom Pendant
+Necklace,Mystic Pendant
+Necklace,Obsidian Pendant
+Necklace,Ranger’s Pendant
+Necklace,Valiant Pendant
+Necklace,Warlock’s Pendant
+Necklace,Unique
+Necklace,Amulet of Chaos
+Necklace,Blue Dragon Pendant
+Necklace,Divine Pendant
+Necklace,Necklace of True Faith
+Necklace,Spirit Necklace
+Necklace,Storm Necklace
+Necklace,Warlord Pendant
+Necklace,Willpower Necklace
+Belt,Common
+Belt,Belt of Town Guard
+Belt,Traveller’s Belt
+Belt,Rare
+Belt,Belt of Agility
+Belt,Belt of Courage
+Belt,Belt of Pilgrim
+Belt,Belt of Wisdom
+Belt,Epic
+Belt,Aurora Belt
+Belt,Fire Resistance Belt
+Belt,Gaia Belt
+Belt,Ice Resistance Belt
+Belt,Lightning Resistance Belt
+Belt,Longevity Belt
+Belt,Poison Resistance Belt
+Belt,Unique
+Belt,Belt of Anticipation
+Belt,Belt of Battle Mage
+Belt,Belt of Iron Legionnaire
+Belt,Belt of Repel
+Belt,Blessing Belt
+Belt,Cursed Belt
+Belt,Elven Belt
+Belt,Emerald Dragon Belt
+Belt,Firebreath
+Belt,Gaze Branch Belt
+Belt,Gloom Belt
+Belt,Lionheart Defender Belt
+Belt,Lorna’s Belt
+Belt,Moon Belt
+Belt,Sun Belt
+Earring,Common
+Earring,Bronze Earring
+Earring,Silver Earring
+Earring,Golden Earring
+Earring,Rare
+Earring,Magus Earring
+Earring,Steel Earring
+Earring,Swiftness Earring
+Earring,Traveller’s Earring
+Earring,Vitality Earring
+Earring,Epic
+Earring,Assassin Earring
+Earring,Brawler’s Earring
+Earring,Cleric’s Earring
+Earring,Earring of Persistence
+Earring,Holy Priest Earring
+Earring,Knight’s Earring
+Earring,Lifebloom Earring
+Earring,Mystic Earring
+Earring,Obsidian Earring
+Earring,Ranger’s Earring
+Earring,Valiant Earring
+Earring,Warlock’s Earring
+Earring,Unique
+Earring,Blue Dragon Earring
+Earring,Chaos Earring
+Earring,Divine Earring
+Earring,Earring of True Faith
+Earring,Spirit Earring
+Earring,Storm Earring
+Earring,Warlord Earring
+Earring,Willpower Earring
+Ring,Common
+Ring,Bronze Ring
+Ring,Silver Ring
+Ring,Golden Ring
+Ring,Rare
+Ring,Magus Ring
+Ring,Steel Ring
+Ring,Swiftness Ring
+Ring,Traveller’s Ring
+Ring,Vitality Ring
+Ring,Epic
+Ring,Assassin Ring
+Ring,Black Soul Ring
+Ring,Brawler’s Ring
+Ring,Cleric’s Ring
+Ring,Holy Priest Ring
+Ring,Lifebloom Ring
+Ring,Knight’s Ring
+Ring,Mystic Ring
+Ring,Obsidian Ring
+Ring,Ranger’s Ring
+Ring,Valiant Ring
+Ring,Warlock’s Ring
+Ring,Unique
+Ring,Blue Dragon Ring
+Ring,Chaos Ring
+Ring,Divine Ring
+Ring,Ring of True Faith
+Ring,Spirit Ring
+Ring,Storm Ring
+Ring,Warlord Ring
+Ring,Willpower Ring
+Necklace,Ancient Mystic Pendant
