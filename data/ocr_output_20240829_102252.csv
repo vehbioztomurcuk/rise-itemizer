@@ -1,0 +1,283 @@
+Filename,Name,Item Type,Is Radiant,Item Quality,Grade,Max Rune,Attack Power,Physical Defense Bonus,Dagger Defense,Sword Defense,Mace Defense,Axe Defense,Spear Defense,Bow Defense,Mirror Damage,Poison Damage,Fire Damage,Ice Damage,Lightning Damage,Holy Damage,HP Leech,Mana Burn,Strength Bonus,Health Bonus,Dexterity Bonus,Intelligence Bonus,Magic Bonus,HP Bonus,MP Bonus,Fire Resistance,Ice Resistance,Lightning Resistance,Holy Damage Resistance,Poison Damage Resistance,Curse Damage Resistance,Required Magic,Required Intelligence,Required HP,Required Strength,Required Dexterity,Required Level,Durability,Weight,Description
+a (262).png,N Ancient Belt of iron Legionairre,,True,,> Cannot be upgraded. Binds when equipped.,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,10,0,0,0,0,0,15,15,0,0,0,0,0,0,0,0,0,60,0,0,ep eB Oe Lilac Rs eal) 40
+a (231).png,Spirit Ring,,False,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40,0,0,> Spirit Ring
+a (165).png,Warlord Earring (+4),,True,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,coy Warlord Earring (+4)
+a (236).png,Warlock's Ring (+1},,True,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,7,0,0,0,0,0,0,0,0,0,0,0,0,0,30,0,0,> Warlock's Ring (+1)
+a (225).png,Earring,Willpower Earring,False,,,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,5,0,0,0,0,120,0,0,10,0,0,0,0,0,0,0,0,60,0,0,Come aie]
+a (199).png,on eee Pte d sel),,True,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,at)
+a (193).png,OU ie Bose Rome),,True,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ale)
+a (8).png,Ancient Knight's Earring,,True,,Cannot be upgraded. Binds when equipped,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30,0,0,co)
+a (261).png,Xie a ee elt,,True,,> Cannot be upgraded Binds when equipped,0,0,30,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,60,0,0,oye eee L i=) 5
+a (70).png,Axe,Dragon Slayer,False,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,> Storm Necklace (+3)
+a (235).png,Warlock's Ring (+2),,True,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30,0,0,> Warlock’s Ring (+2)
+a (153).png,Divine Earring (+4),,False,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,150,0,0,0,0,0,0,0,0,0,0,0,60,0,0,> Divine Earring (+4)
+a (3).png,Anklet,Celestial Anklet of Wisdom D.D.D,True,,co Cannot be upgraded. Binds when equipped.,0,0,0,0,0,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,75,0,0,0,0,0,0,0,0,0,0,0,60,0,0,Curse Damage Res. ie]
+a (257).png,Ne A ee aa ve,,True,,os Cannot be upgraded. Binds when equipped.,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,30,0,0,lets) sie) g10 4
+a (26).png,Axe,Dragon Slayer,False,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ae)
+a (121).png,Earring,Willpower Earring,False,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,8,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0,> Storm Ring
+a (74).png,Necklace of True Faith (+5),,False,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,cy Necklace of True Faith (+5)
+a (48).png,Pu te Bee oy,,True,,,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,60,0,0,} Amulet of Chaos
+a (152).png,Divine Earring (+5),,True,,,0,0,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,27,21,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,60,0,0,d Divine Earring (+5)
+a (67).png,Ranger's Pendant,,True,,,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30,0,0,COAL CUCL
+a (163).png,fey Teale),,False,,,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,60,0,0,d Chaos Earring
+a (252).png,mem =xe)a0 cy,,True,,co Cannot be upgraded,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,. Binds when equipped.
+a (247).png,Ancient Lifebloom Ring,,True,,oy Cannot be upgraded Binds when equipped,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,20,20,0,0,0,0,0,0,0,0,0,0,0,30,0,0,Tare) Ancient
+a (188).png,Facelifter (+10),,False,,,0,138,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,* Spesific Collection Item ™*
+a (33).png,Celestial Anidat of Courage D,,False,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,d lt can reach great power with the orbs
+a (39).png,eI MBL re eM Le ba) |,,False,,,0,0,0,0,0,0,0,0,0,0,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,roy Blue Dragon Pendant (+3)
+a (52).png,Pee Ra nel a 72),,False,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,250,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,} Warlord Pendant (+2)
+a (164).png,Warlord Earring (+5),,False,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,> Warlord Earring (+5)
+a (32).png,Lee EO ase Tag,,False,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15
+a (150).png,Storm Earing (+1),,False,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,4,3,24,0,0,0,0,0,0,0,0,40,0,0,d Storm Earring (+1}
+a (198).png,Celestial Anklet of Magic C,,True,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,alt)
+a (123).png,Polearm,Reaper,False,,,0,0,0,0,0,0,0,0,0,0,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40,0,0,> Willpower Ring (+4)
+a (128).png,Spirit Ring (+5),,False,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,21,0,200,0,0,0,0,0,0,0,0,0,0,0,0,0,0,> Spirit Ring (+5)
+a (21).png,Celestiol Anklet of Magic A,,True,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+a (209).png,Celestial Anklet of Courage S.S.S,,False,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+a (25).png,Sword,Jade Sword,False,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,atu
+a (117).png,Storm Ring (+4),,False,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,> RieLuma lel Rca]
+a (38).png,Blue Dragon Pendant (+4},,True,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,<> Biue Dragon Pendant (+4)
+a (158).png,Chaos Earring (+5),,False,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,60,0,0,&} Chaos Earring (+5)
+a (118).png,Storm Ring (+3),,False,,,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,10,0,15,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,40,0,0,> Storm Ring (+3)
+a (136).png,Blue Dragon Earring (+3),,True,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,60,0,0,roy Blue Dragon Earring (+3)
+a (233).png,Wanrlock's Ring (+4),,False,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,15,0,0,0,0,0,0,0,0,0,0,0,0,0,30,0,0,coy Warlock’s Ring (+4)
+a (191).png,Facelifter (+7),,False,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,208,0,0,16,™ Spesific Collection Item **
+a (60).png,Divine Pendant (+1),,True,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,15,0,15,0,0,0,0,15,15,0,0,0,0,0,0,0,0,0,0,0,ros Divine Pendant (+1)
+a (111).png,Chaos Ring (+4),,False,,,0,0,0,0,0,0,0,0,0,0,0,0,0,30,0,0,0,0,0,0,0,23,0,210,0,0,0,0,0,0,0,0,0,0,0,60,0,0,} Chaos Ring (+4)
+a (228).png,Spirit Ring (+3),,True,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,40,0,0,> Spirit Ring (+3)
+a (103).png,Warlord Ring,,True,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,60,0,0,coy Warlord Ring
+a (175).png,Oivine Earring,,False,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,> Divine Earring
+a (259).png,Ancient Warlock's Pendant,,True,,co Cannot be upgraded. Binds when equipped.,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,5,0,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,30,0,0,ee Pece w sey 12
+a (140).png,Willpower Earring (+5),,False,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,35,0,0,0,0,0,0,0,0,0,0,0,d Willpower Earring (+5)
+a (221).png,felt een ae),,False,,,0,0,0,0,0,0,0,0,0,0,0,30,0,30,0,0,0,0,0,0,0,23,0,210,0,0,21,0,0,0,0,0,0,0,0,60,0,0,<} Chaos Ring (+4)
+a (281).png,Ancient Ranger's Ring,,True,,co Cannot be upgraded. Binds when equipped.,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,30,0,0,ot- Mat oct\ ts] Ae(—) 5
+a (161).png,be Bu a],,True,,,0,0,0,0,0,0,0,0,0,0,0,15,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,60,0,0,> Cheos Earning (+2)
+a (112).png,Chaos Ring (+3),,False,,,0,0,0,0,0,0,0,0,0,0,0,25,25,25,0,0,0,0,0,0,0,18,0,180,0,0,18,0,0,0,0,0,0,0,0,60,0,0,<} Chaos Ring (+3)
+a (277).png,Ancient Cleric’s Earring,,True,,ro Cannot be upgraded. Binds when equipped,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30,0,0,I ye Oey es eal) 8
+a (13).png,Celestial Anklet of Magic S.S.S,,True,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+a (40).png,Spear,Vanquisher,False,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,> Blue Dragon Pendant (+2)
+a (246).png,Ancient Lifebloom Earring,,True,,d Cannot be upgraded. Binds when equipped.,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,50,0,0,0,0,0,0,0,0,0,0,0,30,0,0,All Classes
+a (24).png,Dagger,Serpent Dagger,False,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,att)
+a (248).png,Ancient Lifebloom Pendant,,True,,d Cannot be upgraded. Binds when equipped,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30,0,0,ln | ean x0) E) 30
+a (258).png,Ancient Warlock's Ring,,True,,co Cannot be upgraded. Binds when equipped.,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30,0,0,ee EO Ms eFC} 10
+a (147).png,Storm Earring (+4),,True,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,0,0,0,0,0,0,0,0,0,0,0,0,40,0,0,re Storm Earning (+4)
+a (184).png,L OCT elcek a Lie eas),,True,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21,15,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,60,0,0,> Warlord Earring (+3)
+a (55).png,Divine Pendant (+5),,True,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,60,0,0,> Dale lale tt red
+a (89).png,Divine Ring (+2),,False,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,11,0,0,0,0,0,0,0,0,60,0,0,co armel? ead
+a (51).png,A Ue esl Ue ad,,False,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,d Warlord Pendant (+3)
+a (65).png,Ranger's Pendant (+2),,True,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30,0,0,roy Ranger's Pendant (+2)
+a (124).png,Willpower Ring (+3),,False,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ros Willpower Ring (+3)
+a (141).png,Willpower Earring (+4),,False,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eee)
+a (27).png,Pee EP ae Ty,,False,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ahs)
+a (46).png,Amulet of Chaos (+2),,False,,,0,0,0,0,0,0,0,0,0,0,0,0,20,20,0,0,0,0,0,0,0,24,0,120,0,0,0,0,0,0,0,0,0,0,0,60,0,0,ry Amulet of Chaos (+2)
+a (53).png,Tou ka Ug ea,,True,,,0,0,0,0,0,0,0,0,0,0,42,0,0,0,0,0,0,0,0,0,0,0,180,0,0,0,0,0,0,0,0,0,0,0,0,60,0,0,> Warlord Pendant (+1)
+a (240).png,Mystic Ring (+3),,True,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0,130,0,0,0,0,0,0,0,0,0,0,0,30,0,0,> Mystic Ring (+3)
+a (182).png,Warlord Earring (+5),,True,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,60,0,0,> Warlord Earring (+5)
+a (127).png,Willpower Ring,,True,,,0,0,48,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,> a illlccen tm aiials)
+a (120).png,Storm Ring (+1),,True,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40,0,0,Storm Ring (+1)
+a (171).png,Divine Earring (+4),,False,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,60,0,0,cos Divine Earring (+4)
+a (173).png,Divine Earting (+2),,True,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,> Divine Earring (+2)
+a (73).png,Let ey Unique,,False,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,10,0,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,rey Storm Necklace
+a (172).png,ewan aa),,False,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,120,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ces Divine Earring (+3}
+a (155).png,Divine Earring (+2),,True,,,0,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,60,0,0,d DIN =t Lisle Gr)
+a (113).png,Chaos Ring (#2),,False,,,0,0,22,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,13,0,0,0,0,160,15,0,15,0,0,0,0,0,0,0,0,60,0,0,d Chaos Ring (+2}
+a (116).png,Storm Ring (+5),,False,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,0,0,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,cos Storm Ring (+5)
+a (192).png,Celestial Anklet of Magic S.S.S,,True,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,att)
+a (42).png,PoP cee Mae ed,,True,,,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,3,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,60,0,0,> SMBs Tole alee e
+a (47).png,PU ee 00s read],,True,,,0,0,0,0,0,0,0,0,0,0,0,15,15,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,60,0,0,CO eal eee Ck aad)
+a (197).png,fon eee Peed eal),,True,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,> It can reach great power with the orbs
+a (229).png,est A G4),,False,,,0,0,0,2,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,140,0,0,0,0,0,0,0,0,0,0,0,40,0,0,> Spirit Ring (+2)
+a (81).png,Willpower Necklace (+4),,False,,,0,0,0,0,0,0,0,0,0,0,28,0,0,0,0,0,0,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40,0,0,> Willpower Necklace (+4)
+a (214).png,eee PUL Rs eel aN,,True,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,cos It can reach great power with the orbs
+a (274).png,x ee ees,,True,,d Cannot be upgraded Binds when equipped,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,60,0,0,Sy ores Lets) 5
+a (251).png,Anklet,Celestial Anklet of Wisdom D.D.D,True,,d Cannot be upgraded. Binds when equipped.,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,5,5,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30,0,0,Curse Damage Res 10
+a (162).png,Chaos Earring (+1),,False,,,0,0,0,0,0,0,0,0,0,0,0,12,12,12,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,60,0,0,co) Chaos Earring (+1)
+a (212).png,One ea eet ve),,True,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,> It can reach great power with the orbs
+a (282).png,Ancient Ranger's Pendant,,True,,Oy Cannot be upgraded Binds when equipped,0,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30,0,0,corre] am OT-litt=\e| Este 20
+a (12).png,Axe,Dragon Slayer,True,,43 Mg Wasl> Ancient Runes can't be added to this item Health Bonus Intelligence Bonus Magic Bonus Fire Damage Ice Damage Lightning Damage Required Level > Cannot be upgraded. 10 10 10 5 5 5 60 (60} Binds when equipped.,0,0,42,36,0,0,6,0,0,0,42,43,43,43,5,15,15,42,43,6,1,43,0,14,160,33,2,0,0,0,0,0,0,0,0,42,0,15,artim ola PageStyle_Sheet1 English (USA)
+a (232).png,Warlock's Ring (+5),,False,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30,0,0,ces Warlock's Ring (+5}
+a (260).png,Spear,Vanquisher,True,,Oy Cannot be upgraded Binds when equipped,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,10,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,60,0,0,eB Be Lees eg) me
+a (54).png,Dee ved Uy,,True,,,0,0,0,0,0,0,0,0,0,0,40,0,0,0,0,0,0,0,0,0,0,0,120,0,0,0,0,0,0,0,0,0,0,0,0,60,0,0,} Warlord Pendant
+a (75).png,Necklace of True Faith (+4),,True,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,0,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,co) Necklace of True Faith (+4)
+a (66).png,Ranger's Pendant (+1),,True,,,0,0,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30,0,0,d Ranger's Pendant (+1)
+a (156).png,Divine Earring (+1),,True,,,0,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,80,0,0,0,0,0,0,0,0,0,0,0,60,0,0,ro Divine Earring (+1)
+a (213).png,eee Ue kes,,True,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3 It can reach great power with the orbs
+a (254).png,A! PC Ut LULA],,True,,} Cannot be upgraded. Binds when equipped.,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30,0,0,Dyess (lala sie ales) 10
+a (4).png,Axe,Dragon Slayer,True,,cy Cannot be upgraded.,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Binds when equipped.
+a (37).png,sabre ane eed],,False,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,COM ana ues)
+a (201).png,pO eB se],,True,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,> It can reach great power with the orbs
+a (267).png,Pe wee),,True,,ro) Cannot be upgraded. Binds when equipped,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30,0,0,All Classes Br \..
+a (219).png,Celestial Anklet of Courage A,,True,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+a (245).png,Anklet,Celestial Anklet of Wisdom D.D.D,True,,> Cannot be upgraded. Binds when equipped.,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,120,0,15,0,15,0,0,0,0,0,0,0,0,30,0,0,oe t-riei( are) 15
+a (16).png,Celestial Anklet of Courage S.S.S,,True,,,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,d it can reach great power with the orbs
+a (85).png,Willpower Necklace,,False,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,> Demo diola
+a (68).png,ROL) oe te a),,True,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21,25,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,> Storm Necklace (+5)
+a (76).png,Necklace of True Faith (+3),,True,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,21,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ry Necklace of True Faith (+3)
+a (83).png,Willpower Necklace (+2),,False,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,3,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40,0,0,coy Willpower Necklace (+2}
+a (15).png,forme Pee fete ETSY,,True,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,at)
+a (149).png,Storm Earring (+2),,True,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,12,0,0,0,0,0,0,28,0,0,0,0,0,0,0,0,40,0,0,d Storm Earring (+2)
+a (125).png,Willpower Ring (+2),,False,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40,0,0,coy Willpower Ring (+2)
+a (204).png,Celestial Anklet of Wisdom B,,True,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+a (87).png,Divine Ring (+4),,True,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,7,0,1,0,0,0,0,0,18,0,0,0,0,0,0,0,0,60,0,0,co) Ome? MO)
+a (29).png,nee ated vas],,False,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,roy It can reach great power with the orbs
+a (31).png,Coren Psa ked ts,,False,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,roy It can reach great power with the orbs
+a (270).png,Ancient Warlock's Earring,,True,,d Cannot be upgraded. Binds when equipped.,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,LS
+a (169).png,Wadord Earring,,True,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,60,0,0,d Warlord Earring
+a (90).png,Divine Ring (+1),,True,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,60,0,0,ce) ON tiee Gap)
+a (167).png,Wartord Earring (+2),,True,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,> Warlord Earring (+2)
+a (71).png,Storm Necklace (+2),,False,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,34,0,0,0,0,0,0,0,0,0,0,0,> Storm Necklace (+2)
+a (7).png,tall al ed etl d,,True,,cy Cannot be upgraded. Binds when equipped.,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,20,0,0,0,0,0,0,0,0,0,0,0,30,0,0,All Classes .
+a (108).png,Warlord Ring (+1),,True,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,70,0,0,12,0,0,0,0,0,0,0,0,60,0,0,} Warlord Ring (+1)
+a (194).png,oe ee Ene ds SERS),,True,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,att)
+a (5).png,Ne ct eet Ue],,True,,. Cannot be upgraded. Binds when equipped.,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,30,0,0,All Classes  \
+a (237).png,Greataxe,Tormentor,True,,,0,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,30,0,0,> Wartock's Ring
+a (238).png,Mystic Ring (+5),,False,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,co) Mystic Ring (+5)
+a (215).png,Celestial Anklet of Courage S,,True,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,cy It can reach great power with the orbs
+a (106).png,Warlord Ring (+3),,False,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21,0,0,0,0,0,90,0,0,18,0,0,0,0,0,0,0,0,60,0,0,} Warlord Ring (+3)
+a (41).png,Blue Dragon Pendant (+1),,True,,,0,0,0,0,0,0,0,0,0,0,74,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,60,0,0,> Blue Dragon Pendant (+1)
+a (177).png,Chaos Earring (+4),,True,,,0,0,0,0,0,0,0,0,0,0,0,0,21,21,0,0,0,0,0,0,0,25,0,0,0,0,0,0,0,0,0,0,0,0,0,60,0,0,ro) Chaos Earring (+4)
+a (14).png,bree BER],,True,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ate]
+a (6).png,ee Uo eas],,True,,co Cannot be upgraded. Binds when equipped.,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,50,0,0,0,0,0,0,0,0,0,0,0,30,0,0,fan 20809523 10
+a (253).png,Axe,Dragon Slayer,True,,> Cannot be upgraded. Binds when equipped.,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0,0,0,50,15,0,15,0,0,0,0,0,0,0,0,30,0,0,Curse Damage Res. a Ee)
+a (20).png,loner Pe ted rd),,False,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ate)
+a (154).png,Divine Earring (+3),,True,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,74,0,0,120,0,0,0,0,0,0,0,0,0,0,0,60,0,0,> Divine Earnng (+3)
+a (43).png,UT eee ce BaD],,True,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,60,0,0,d Amulet of Chaos (+5)
+a (36).png,per ge geese ey,,True,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+a (1).png,Ancient Belt of Anticipation,,True,,oy Cannot be upgraded. Binds when equipped,0,0,30,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,60,0,0,PN RO)
+a (265).png,Ne ee ek Bae,,True,,cy Cannot be upgraded Binds when equipped,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,30,0,0,0,0,0,0,0,0,0,0,0,0,30,0,0,PEO)
+a (61).png,Pe ans sid,,True,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,d OTe
+a (35).png,ee BOUL msec,,False,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,at)
+a (145).png,at] roayT Vhs,,True,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,20,20,20,0,0,0,0,0,0,0,0,40,0,0,coy Willpower Earring
+a (272).png,Ancient Warlock's Pendant,,True,,d Cannot be upgraded,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Binds when equipped
+a (239).png,Poa Ree),,False,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30,0,0,> Mystic Ring (+4)
+a (34).png,Celestial Anidet of Courage C,,False,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+a (129).png,Spirit Ring (+4),,True,,,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,16,0,180,0,0,0,0,0,0,0,0,0,0,0,40,0,0,cy Spirit Ring (+4)
+a (211).png,Celestial Anklet of Agility D,,True,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,aft)
+a (278).png,Ancient Cleric's Ring,,True,,ro Cannot be upgraded Binds when equipped,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,30,0,0,0,0,0,0,0,0,0,0,0,0,30,0,0,Pt Ee ji
+a (110).png,Chaos Ring (+5),,False,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Pur}
+a (234).png,Warlock's Ring (+3),,True,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,> Warlock's Ring (+3}
+a (187).png,Wanrtord Earting,,True,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,60,0,0,COCR LL)
+a (30).png,ee PL ate g tr ke,,False,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,d It can reach great power with the orbs
+a (217).png,Cone eer aE ke geet eS O,,True,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+a (133).png,Staff,Razu’s Staff,True,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,> Spirit Ring
+a (230).png,Spirit Ring (+1),,False,,,0,0,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,120,0,0,0,0,0,0,0,0,0,0,0,40,0,0,coy Spirit Ring (+1)
+a (250).png,Physical Defense Bonus a Es),,True,,>} Cannot be upgraded. Binds when equipped.,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,5,0,0,0,0,0,5,0,0,0,0,0,0,0,0,30,0,0,am StsSICy Ct e3) 5
+a (264).png,h Ancient Cieric’s Earring,,True,,ry) Cannot be upgraded. Binds when equipped,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30,0,0,a eee ie ese) )
+a (45).png,Amulet of Chaos (+3),,True,,,0,0,0,0,0,0,0,0,0,0,0,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,roy Amulet of Chaos (+3)
+a (64).png,Ranger's Pendant (+3),,True,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30,0,0,> Ranger's Pendant (+3)
+a (86).png,Ped TT s)),,False,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,> Divine Ring (+5}
+a (202).png,Celestial Anklet of Wisdom D,,True,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+a (176).png,foresee),,True,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,co) Chaos Earring (+5)
+a (59).png,Divine Pendant (+2),,True,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0,ros Divine Pendant (+2)
+a (269).png,PN re Motes eM creat LS,,True,,cs Cannot be upgraded. Binds when equipped,0,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30,0,0,‘ml aan=re)ele (ss 0)
+a (256).png,PN re Wc ced,,True,,oy Cannot be upgraded. Binds when equipped.,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,30,0,0,All Classes
+a (102).png,Wartord Ring (+1),,True,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,70,0,4,12,0,0,0,0,0,0,0,0,0,0,0,> Warlord Ring (#1)
+a (144).png,Willpower Earring (+1),,True,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,7,23,7,0,0,0,0,0,0,0,0,40,0,0,d Willpower Earring (+1)
+a (28).png,lore PC tee VED),,False,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,d lt can reach great power with the orbs
+a (190).png,Facelifter (+8),,False,,,0,95,0,0,0,0,0,0,0,0,80,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,210,0,0,0,beers “tem Oe) elle laN 1 ieie
+a (17).png,(on ee Pr Rede OE),,True,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,d It can reach great power with the orbs
+a (119).png,Storm Ring (+2),,False,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,0,0,0,0,0,0,0,0,0,0,0,d Storm Ring (+2)
+a (196).png,oe eee Rod teak),,True,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15
+a (143).png,Willpower Earring (+2),,False,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,172,0,0,0,0,0,0,0,0,26,0,0,0,0,0,0,0,0,40,0,0,> Willpower Earring (+2)
+a (18).png,loner Pr eked rd),,True,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+a (132).png,Spirit Ring (+1),,True,,,0,0,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,7,0,120,0,0,0,0,0,0,0,0,0,0,0,40,0,0,ry Spirit Ring (+1)
+a (94).png,oS Pie rele ae ay],,True,,,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,13,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,60,0,0,g ]
+a (183).png,Peer SR ee),,True,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26,0,0,0,0,0,0,0,8,8,0,0,0,0,0,0,0,0,0,0,0,> Warlord Earring (+4)
+a (69).png,Storm Necklace (+4),,True,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40,0,0,> Storm Necklace (+4)
+a (159).png,Chaos Earring (+4),,False,,,0,0,0,0,0,0,0,0,0,0,0,21,0,21,0,0,0,0,19,0,0,25,0,0,0,0,0,0,0,0,0,0,0,0,0,60,0,0,d Chaos Earring (+4)
+a (95).png,Blue Dragon Ring (+2),,False,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,> Blue Dragon Ring (+2)
+a (44).png,Pu eel le Bae,,True,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,60 (60)
+a (19).png,Belt,Sun Belt,False,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+a (56).png,Divine Pendant (+5),,True,,,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,43,0,28,0,0,0,40,0,0,0,0,0,0,0,0,0,0,60,0,0,ros Divine Pendant (+5)
+a (114).png,Chaos Ring (+1),,False,,,0,0,0,0,0,0,0,0,0,0,0,0,15,15,0,0,0,0,11,0,0,11,0,140,0,0,4,0,0,0,0,0,0,0,0,60,0,0,} Chaos Ring (+1)
+a (166).png,Warlord Earring (+3),,True,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,> Warlord Earring (+3)
+a (2).png,Belt PAN te =),,True,,co Cannot be upgraded. Binds when equipped.,0,0,0,0,0,0,0,0,0,0,0,0,20,20,0,0,0,0,0,0,0,0,0,50,0,0,0,0,0,0,0,0,0,0,0,60,0,0,acm BLL leC-) 20
+a (142).png,Willpower Earring (+3),,True,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40,0,0,d Willpower Earring (+3)
+a (72).png,Axe,Dragon Slayer,True,,,0,0,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,74,0,0,0,0,0,0,0,0,40,0,0,> Storm Necklace (+1)
+a (77).png,Nore ta eel Ma,,False,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40,0,0,> Necklace of True Faith (+2)
+a (210).png,LS for Ue te Bele),,True,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15
+a (91).png,Belt,Sun Belt,False,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,60,0,0,ros Divine Ring
+a (243).png,Mystic Ring,,True,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,20,0,0,0,0,0,0,0,0,0,0,0,0,30,0,0,> ORL oma ilar)
+a (139).png,Blue Dragon Earring,,False,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,60,0,0,coy Blue Dragon Earring
+a (93).png,Dagger,Serpent Dagger,True,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,0,0,0,0,0,0,0,0,0,0,0,> Blue Dragon Ring (+4)
+a (205).png,Celestial Anklet of Wisdom A,,True,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,TY)
+a (122).png,Willpower Ring (+5),,True,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40,0,0,d> Willpower Ring (+5)
+a (63).png,Ranger’s Pendant (+4),,True,,,0,0,0,0,0,0,0,0,0,0,36,0,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30,0,0,coy Ranger's Pendant (+4)
+a (186).png,Warlord Earring (+1),,False,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Cen
+a (105).png,Wartord Ring (+4),,True,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26,15,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0,0,60,0,0,res Warlord Ring (+4)
+a (11).png,cem Nam} Type | Class,,False,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,It can rea
+a (84).png,Willpower Necklace (+1),,False,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9 Willpower Necklace (+1)
+a (180).png,Chaos Earring (+1),,True,,,0,0,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,d Chaos Earring (+1)
+a (135).png,Blue Dragon Earring (+4),,True,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,80,0,0,d Blue Dragon Earring (+4)
+a (104).png,Warlord Ring (+5},,True,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,60,0,0,<} Warlord Ring (+5)
+a (207).png,Oe ee Bee Rome),,True,,,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,5,5,0,15,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,coy It can reach great power with the orbs
+a (151).png,Sle) Unique,,True,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,coy Storm Earring
+a (223).png,LS fore ie or)),,True,,,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,160,15,0,0,0,0,0,0,0,0,0,0,60,0,0,> elt tocm ates)
+a (216).png,Celestial Anklet of Courage D,,True,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+a (62).png,Ranger's Pendant (+5),,True,,,0,0,0,0,0,0,0,0,0,0,40,0,0,0,0,0,0,0,0,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30,0,0,> Ranger's Pendant (+5)
+a (22).png,bP Ee Be],,False,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15
+a (23).png,Celestial Anklet of Wisdom D,,True,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,at)
+a (178).png,Chaos Earring (+3),,True,,,0,0,0,0,0,0,0,0,0,0,0,0,18,18,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ro) Chaos Earring (+3)
+a (273).png,rd Ancient,,True,,> Cannot be upgraded. Binds when equipped,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,60,0,0,also] dam sie) a0) 10
+a (82).png,Willpower Necklace (+3),,False,,,0,0,0,0,0,0,0,0,0,0,26,0,0,0,0,0,0,20,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,> llores odio Geen
+a (58).png,PU alae asd},,True,,,0,0,0,0,0,0,0,0,0,0,46,0,0,0,0,0,0,25,0,0,0,0,0,0,0,0,25,0,0,0,0,0,0,0,0,60,0,0,cy Divine Pendant (+3)
+a (266).png,PN ire ee et Belle,,True,,9 Cannot be upgraded. Binds when equipped,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,60,30,0,0,0,0,0,0,0,0,0,0,0,30,0,0,I Sere)
+a (131).png,Spirit Ring (+2),,False,,,0,0,0,2,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,9,0,140,0,0,0,0,0,0,0,0,0,0,0,40,0,0,cy Spirit Ring (+2)
+a (244).png,Axe,Dragon Slayer,True,,> Cannot be upgraded. Binds when equipped.,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0,0,0,50,15,15,15,0,0,0,0,0,0,0,0,30,0,0,Curse Damage Res. 15
+a (98).png,Warlord Ring (+5),,True,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,120,0,0,25,0,0,0,0,0,0,0,0,60,0,0,} Warlord Ring (+5)
+a (224).png,h fo -Tea ati Gap),,True,,,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0,0,0,1,0,0,0,12,12,0,0,0,0,0,0,0,0,60,0,0,> Chaos Ring (+1)
+a (100).png,Warlord Ring (+3),,False,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,60,0,0,4 Warlord Ring (+3)
+a (218).png,Celestial Anklet of Courage B,,True,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,TY)
+a (275).png,Ancient Beit of Iron Legionairre,,True,,cy Cannot be upgraded. Binds when equipped.,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,15,15,0,0,0,0,0,0,0,0,60,0,0,amet SS} Colne) 15
+a (226).png,Spirit Ring (+5),,False,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,200,0,0,0,0,0,0,0,0,0,0,0,40,0,0,> Spirit Ring (+5)
+a (130).png,Spirit Ring (+3),,False,,,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,4,0,160,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5 Spirit Ring (+3)
+a (49).png,AU leleeRa Ue oad,,True,,,0,0,0,0,0,0,0,0,0,0,50,0,0,0,0,0,0,44,0,0,0,0,520,0,0,0,0,0,0,0,0,0,0,0,0,60,0,0,d Warlord Pendant (+5)
+a (99).png,A Te Re haa),,False,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,60,0,0,res Warlord Ring (+4)
+a (170).png,Divine Earring (+5),,True,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ces Divine Earring (+5)
+a (200).png,Oe eee Pee de oe,,True,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,co lt can reach great power with the orbs
+a (146).png,Storm Earring (+5),,True,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40,0,0,0,0,0,0,0,0,40,0,0,d Storm Earring (+5)
+a (9).png,Pea retary,,True,,> Cannot be upgraded. Binds when equipped.,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30,0,0,Curse Damage Res. 20
+a (115).png,toe Tee],,False,,,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,9,0,0,8,0,120,0,0,10,0,0,0,0,0,0,0,0,60,0,0,CO aL]
+a (203).png,Celestial Anklet of Wisdom C,,True,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+a (10).png,Physical Defense Bonus,,True,,> Cannot be upgraded.,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Binds when equipped.
+a (157).png,Divine Earring,,True,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,60,0,0,roy Peat Laaare|
+a (79).png,Lt Toe LU),,True,,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40,0,0,> Necklace of True Faith
+a (96).png,Blue Dragon Ring (+1),,False,,,0,0,2,0,0,0,0,0,0,0,12,0,0,0,0,0,0,0,9,16,0,0,0,0,4,0,12,0,0,0,0,0,0,0,0,0,0,0,> Blue Dragon Ring (+1)
+a (92).png,eR Orr lense aed],,True,,,0,0,0,0,0,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,1g so)
+a (97).png,eM ele tener),,True,,,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,60,0,0,co Blue Dragon Ring
+a (80).png,Willpower Necklace (+5),,True,,,0,0,0,0,0,0,0,0,0,0,30,0,0,0,0,0,0,0,0,10,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,roy Willpower Necklace (+5)
+a (88).png,Ring Unique,,False,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,74,0,0,0,0,0,0,0,0,0,0,0,0,0,0,60,0,0,ros Oia slare k easd]
+a (241).png,Mystic Ring (+2),,False,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,28,120,0,0,0,0,0,0,0,0,0,0,0,30,0,0,> Mystic Ring (+2)
+a (168).png,Warlord Earring (+1),,False,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,> Warlord Earring (+1)
+a (138).png,Blue Dragon Earring (+1),,True,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,60,0,0,> Blue Dragon Earring (+1)
+a (280).png,Ancient Ranger's Earring,,True,,> Cannot be upgraded. Binds when equipped.,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,30,0,0,coe CCl to Lee) i)
+a (271).png,Ancient Warlock's Ring,,True,,> Cannot be upgraded. Binds when equipped.,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,4,0,0,0,0,0,0,0,0,0,0,0,0,0,30,0,0,ee EO msec} 10
+a (195).png,Celestial Anklet of Courage S.S.S,,False,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,alt)
+a (220).png,Chaos Ring (+5},,False,,,0,0,0,0,0,0,0,0,0,0,0,0,0,35,0,0,0,0,0,0,0,0,0,240,0,0,0,0,0,0,0,0,0,0,0,60,0,0,> Chaos Ring (+5)
+a (78).png,Necklace of True Faith (+1),,False,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,co) relia Melt a ey
+a (268).png,Ancient Brawter's Ring,,True,,> Cannot be upgraded Binds when equipped,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30,0,0,ln eam stelals) 30
+a (109).png,Mace mathe],,False,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,60,0,0,cos Warlord Ring
+a (179).png,Chaos Earring (+2),,False,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,60,0,0,> Chaos Earring (+2)
+a (185).png,Warlord Earring (+2),,False,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,60 (60)
+a (249).png,Mre ge Aa],,True,,oy Cannot be upgraded. Binds when equipped.,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30,0,0,All Gasses pe
+a (227).png,Spirit Ring (+4),,False,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19,0,12,16,0,0,0,0,0,0,0,0,0,0,0,0,0,40,0,0,cos Spirit Ring (+4)
+a (107).png,Warlord Ring (+2),,True,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,80,0,0,15,0,0,0,0,0,0,0,0,60,0,0,<} Warlord Ring (+2)
+a (134).png,Blue Dragon Earring (+5),,False,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,60,0,0,> Blue Dragon Earring (+5)
+a (206).png,pee ke Be eR Re),,True,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,att)
+a (126).png,Willpower Ring (+1),,True,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40,0,0,co) Willpower Ring (+1)
+a (222).png,h Chaos Ring (+3),,False,,,0,0,0,0,0,0,0,0,0,0,0,0,0,25,0,0,0,0,0,0,0,0,0,180,0,0,0,0,0,0,0,0,0,0,0,0,0,0,COC AaB Ose)
+a (137).png,Blue Dragon Earring (+2),,True,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,> Blue Dragon Earring (+2)
+a (57).png,Divine Pendant (+4),,True,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,29,0,0,0,0,0,0,0,0,30,0,0,0,0,0,0,0,0,80,0,0,> Divine Pendant (+4)
+a (101).png,Warlord Ring (+2),,True,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,80,0,0,0,0,0,0,0,0,0,0,0,60,0,0,<} Warlord Ring (+2)
+a (160).png,eed Ree),,False,,,0,0,0,0,0,0,0,0,0,0,0,18,18,18,0,0,0,0,16,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,60,0,0,> Chaos Earring (+3)
+a (279).png,Ancient Cleric's Pendant,,True,,> Cannot be upgraded. Binds when equipped.,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,0,60,0,0,0,0,0,0,0,0,0,0,0,0,30,0,0,aan sre) aL bcd 30
+a (174).png,Divine Earring (+1),,False,,,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,60,0,0,cos Divine Earring (+1)
+a (208).png,Celestial Anklet of Agility S.S.S,,True,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,att)
+a (50).png,Teele R ae ll eee),,True,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,420,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,> Warlord Pendant (+4)
+a (242).png,Mystic Ring (+1),,False,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,cos Mystic Ring (+1)
+a (263).png,ar Nate ad,,True,,> Cannot be upgraded. Binds when equipped.,0,0,15,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,6,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,60,0,0,Curse Damage Res. 15
+a (276).png,Axe,Dragon Slayer,True,,> Cannot be upgraded. Binds when equipped.,0,0,15,0,0,0,0,0,0,0,15,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,60,0,0,lO exw Bl-1iit-le\ mate 15
+a (181).png,is ole els),,False,,,0,0,0,0,0,0,0,0,0,0,0,10,10,10,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,60,0,0,co) Chaos Earring
+a (148).png,Storm Earring (+3),,True,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,15,0,0,25,0,0,0,0,0,0,0,0,0,0,0,0,40,0,0,d Storm Earring (+3)
+a (189).png,ite Coe aes),,False,,,0,116,0,0,0,0,0,0,0,0,92,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,212,0,0,0,** Spesific Collection Item **
+a (255).png,Ancient Assassin Ring,,True,,co Cannot be upgraded. Binds when equipped.,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30,0,0,im lean stole) 20

@@ -19,3 +19,5 @@ To get started, clone the repository and install the necessary dependencies:
 git clone https://github.com/yourusername/riseocr.git
 cd riseocr
 pip install -r requirements.txt
+
+
